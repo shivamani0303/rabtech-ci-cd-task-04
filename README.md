@@ -1,3 +1,6 @@
+# RabTech CI/CD Task 04
+
+[![CI/CD Pipeline](https://github.com/shivamani0303/rabtech-ci-cd-task-04/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/shivamani0303/rabtech-ci-cd-task-04/actions/workflows/ci-cd.yml)
 # DockerTaskApp
 
 A containerized Flask web application with PostgreSQL, created to demonstrate Docker best practices including multi-stage builds, non-root execution, health checks, Docker Compose, and persistent database storage.
